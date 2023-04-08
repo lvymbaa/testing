@@ -1,0 +1,11 @@
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\bin\Debug\AppTest.exe.config
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\bin\Debug\AppTest.exe
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\bin\Debug\AppTest.pdb
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\AppTest.csproj.AssemblyReference.cache
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\AppTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\AppTest.Form1.resources
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\AppTest.Properties.Resources.resources
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\AppTest.csproj.GenerateResource.cache
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\AppTest.exe
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\AppTest.pdb

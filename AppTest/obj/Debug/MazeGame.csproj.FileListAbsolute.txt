@@ -1,0 +1,11 @@
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\MazeGame.csproj.AssemblyReference.cache
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\MazeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\MazeGame.Form1.resources
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\MazeGame.csproj.GenerateResource.cache
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\bin\Debug\MazeGame.exe.config
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\bin\Debug\MazeGame.exe
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\bin\Debug\MazeGame.pdb
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\MazeGame.Properties.Resources.resources
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\MazeGame.exe
+C:\Users\start\OneDrive\Рабочий стол\AppTest-master\AppTest-master\AppTest\obj\Debug\MazeGame.pdb
