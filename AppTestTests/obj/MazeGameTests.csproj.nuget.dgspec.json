@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\start\\OneDrive\\Рабочий стол\\AppTest-master\\AppTest-master\\AppTestTests\\MazeGameTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\start\\OneDrive\\Рабочий стол\\AppTest-master\\AppTest-master\\AppTestTests\\MazeGameTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\start\\OneDrive\\Рабочий стол\\AppTest-master\\AppTest-master\\AppTestTests\\MazeGameTests.csproj",
+        "projectName": "MazeGameTests",
+        "projectPath": "C:\\Users\\start\\OneDrive\\Рабочий стол\\AppTest-master\\AppTest-master\\AppTestTests\\MazeGameTests.csproj",
+        "packagesPath": "C:\\Users\\start\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\start\\OneDrive\\Рабочий стол\\AppTest-master\\AppTest-master\\AppTestTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\start\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\start\\OneDrive\\Рабочий стол\\AppTest-master\\AppTest-master\\AppTest\\MazeGame.csproj": {
+                "projectPath": "C:\\Users\\start\\OneDrive\\Рабочий стол\\AppTest-master\\AppTest-master\\AppTest\\MazeGame.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.Build.Framework": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\start\\OneDrive\\Рабочий стол\\AppTest-master\\AppTest-master\\AppTest\\MazeGame.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\start\\OneDrive\\Рабочий стол\\AppTest-master\\AppTest-master\\AppTest\\MazeGame.csproj",
+        "projectName": "MazeGame",
+        "projectPath": "C:\\Users\\start\\OneDrive\\Рабочий стол\\AppTest-master\\AppTest-master\\AppTest\\MazeGame.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
