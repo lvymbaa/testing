@@ -1,4 +1,5 @@
 [![dotnet package](https://github.com/lvymbaa/testing/actions/workflows/unit.yml/badge.svg)](https://github.com/lvymbaa/testing/actions/workflows/unit.yml)
+[![SonarCloud](https://github.com/lvymbaa/testing/actions/workflows/build.yml/badge.svg)](https://github.com/lvymbaa/testing/actions/workflows/build.yml)
 # testing
 MazeGame - игра, в которой игроку нужно пройти через лабиринт, забрав по пути сокровище. Количество ходов игрока (перемещений на следующую клетку лабиринта) ограничено.
 
